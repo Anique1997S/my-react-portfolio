@@ -28,7 +28,7 @@ const heroConfig: HeroLayoutWithNoneWrapper = {
   slides: [
     {
       image: heroImage1,
-      title: ['Hi!', "I'm Qasim"],
+      title: ['Hi!', "I'm Anique"],
       subtitle: '',
     },
     {

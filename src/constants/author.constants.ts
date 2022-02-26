@@ -1,15 +1,15 @@
 import profile from '../assets/images/profile.jpeg';
 
 const author = {
-  name: 'Muhammad Qasim',
+  name: 'Anique Ajmal Siddiqui',
   avatar: profile,
-  jobTitle: 'Software engineer',
+  jobTitle: 'Aerospace Engineer',
   location: 'London',
   socials: {
-    email: 'mailto:qasim9872@gmail.com',
-    github: 'https://github.com/qasim9872',
+    email: 'mailto:ajmalanique@gmail.com',
+    github: 'https://github.com/Anique1997S',
     // twitter: 'https://twitter.com/qasim9872',
-    linkedin: 'https://www.linkedin.com/in/qasim9872/',
+    linkedin: 'https://www.linkedin.com/in/anique-siddiqui/',
   },
 };
 
