@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.e06cee18.chunk.css",
+    "main.js": "/my-react-portfolio/static/js/main.f7841cd4.chunk.js",
+    "main.js.map": "/my-react-portfolio/static/js/main.f7841cd4.chunk.js.map",
+    "runtime-main.js": "/my-react-portfolio/static/js/runtime-main.b391f525.js",
+    "runtime-main.js.map": "/my-react-portfolio/static/js/runtime-main.b391f525.js.map",
+    "static/css/2.fe47a493.chunk.css": "/my-react-portfolio/static/css/2.fe47a493.chunk.css",
+    "static/js/2.ac89a23e.chunk.js": "/my-react-portfolio/static/js/2.ac89a23e.chunk.js",
+    "static/js/2.ac89a23e.chunk.js.map": "/my-react-portfolio/static/js/2.ac89a23e.chunk.js.map",
+    "static/js/3.3425a98e.chunk.js": "/my-react-portfolio/static/js/3.3425a98e.chunk.js",
+    "static/js/3.3425a98e.chunk.js.map": "/my-react-portfolio/static/js/3.3425a98e.chunk.js.map",
+    "index.html": "/my-react-portfolio/index.html",
+    "static/css/2.fe47a493.chunk.css.map": "/my-react-portfolio/static/css/2.fe47a493.chunk.css.map",
+    "static/css/main.e06cee18.chunk.css.map": "/my-react-portfolio/static/css/main.e06cee18.chunk.css.map",
+    "static/js/2.ac89a23e.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.ac89a23e.chunk.js.LICENSE.txt",
+    "static/media/ar-treasure-hunt.e8bb0a75.png": "/my-react-portfolio/static/media/ar-treasure-hunt.e8bb0a75.png",
+    "static/media/aws-transcribe.4c271c50.png": "/my-react-portfolio/static/media/aws-transcribe.4c271c50.png",
+    "static/media/beaconhouse-school-system-logo.8c8533e6.png": "/my-react-portfolio/static/media/beaconhouse-school-system-logo.8c8533e6.png",
+    "static/media/main.css": "/my-react-portfolio/static/media/hero_2.07bda6b4.jpeg",
+    "static/media/my-react-portfolio.17533784.png": "/my-react-portfolio/static/media/my-react-portfolio.17533784.png",
+    "static/media/myvoicebot.cbe0787e.png": "/my-react-portfolio/static/media/myvoicebot.cbe0787e.png",
+    "static/media/neural-question-answering-system.c4eaf46d.png": "/my-react-portfolio/static/media/neural-question-answering-system.c4eaf46d.png",
+    "static/media/profile.2e8113a7.jpeg": "/my-react-portfolio/static/media/profile.2e8113a7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b391f525.js",
+    "static/css/2.fe47a493.chunk.css",
+    "static/js/2.ac89a23e.chunk.js",
+    "static/css/main.e06cee18.chunk.css",
+    "static/js/main.f7841cd4.chunk.js"
+  ]
+}
