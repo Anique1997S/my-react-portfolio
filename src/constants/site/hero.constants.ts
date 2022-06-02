@@ -14,7 +14,7 @@ type HeroLayoutWithNoneWrapper = HeroLayout & NoneWrapper;
 export const CallToAction = {
   text: 'View CV',
   link:
-    'https://drive.google.com/file/d/15D4j9e34zYCzpslnX_5zqAKgX2jxuG5x/view?usp=sharing',
+    'https://drive.google.com/file/d/1C2OWU0M0XiueW4uBx3VwCn5nr5dmZvq0/view?usp=sharing',
   icon: download,
 };
 
@@ -33,7 +33,7 @@ const heroConfig: HeroLayoutWithNoneWrapper = {
     },
     {
       image: heroImage2,
-      title: ['I am a', 'Software Engineer'],
+      title: ['I am an', 'Aerospace Engineer'],
       subtitle: '',
     },
   ],

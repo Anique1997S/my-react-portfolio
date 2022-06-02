@@ -1,4 +1,4 @@
-import profile from '../assets/images/profile.jpeg';
+import profile from '../assets/images/profile.jpg';
 
 const author = {
   name: 'Anique Ajmal Siddiqui',
